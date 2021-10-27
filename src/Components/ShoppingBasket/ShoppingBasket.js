@@ -53,9 +53,9 @@ export const ShoppingBasket = ({
           {cartItems.length !== 0 && (
             <div className="basket__summary">
               <h3>total price</h3>
-              <h2>${totalItems.toFixed(2)}</h2>
+              <h2>&pound;{totalItems.toFixed(2)}</h2>
               <h3>total price inc VAT</h3>
-              <h2>${totalSummary.toFixed(2)}</h2>
+              <h2>&pound;{totalSummary.toFixed(2)}</h2>
             </div>
           )}
         </div>
