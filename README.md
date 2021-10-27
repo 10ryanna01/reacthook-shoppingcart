@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# basic-shoppingcart built in React
+mini shopping cart made with react hooks
+ ## TLDR: 
+1) install --- npm install /yarn install
+2) run it --- npm start /yarn start
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
