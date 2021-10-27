@@ -1,4 +1,4 @@
-# basic-shoppingcart
+# basic-shoppingcart built in React
 mini shopping cart made with react hooks
  ## TLDR: 
 1) install --- npm install /yarn install
